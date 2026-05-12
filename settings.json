@@ -8,7 +8,7 @@
   "server": {
     "ip": "boxpvpana2.aternos.me",
     "port": 37023,
-    "version": "",
+    "version": 1.21.4,
     "try-creative": false
   },
   "position": {
